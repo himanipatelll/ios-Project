@@ -17,7 +17,16 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 151.04895104895104%; height: 0;"><iframe src="https://www.loom.com/embed/5420c3f647a1428997c5053e504c9c18?sid=5340bfec-b94e-44c8-a68f-6dacd93b9d81" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/3598f3221fa94e89bb016fa3fdf248ac">
+      <p>New File at / · himanipatelll/ios-Project - 5 January 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/3598f3221fa94e89bb016fa3fdf248ac">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3598f3221fa94e89bb016fa3fdf248ac-43013ce8e8994142-full-play.gif">
+    </a>
+  </div>
+  
+
 
 
 ## App Brainstorming (Step 4)
