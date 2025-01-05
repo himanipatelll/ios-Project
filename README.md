@@ -11,9 +11,9 @@ Time spent: 2.5 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ x] Users see a screen with three labels and two buttons
-- [x ] Tapping the "Background" changes the screen color to a random color
-- [x ] Tapping the "Text" changes the color of the text
+- [x] Users see a screen with three labels and two buttons
+- [x] Tapping the "Background" changes the screen color to a random color
+- [x] Tapping the "Text" changes the color of the text
  
 ## Video Walkthrough
 
