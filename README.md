@@ -3,7 +3,7 @@
 
 Submitted by: Himani Patel
 
-Prework is an app that features two buttons one that changes the color of screen and one that changes the color of the text
+Prework is an app that features two buttons one that changes the color of screen and one that changes the color of the text.
 
 Time spent: 2.5 hours spent in total
 
@@ -49,7 +49,7 @@ The following **required** functionality is completed:
 I would like to create an app that allows users to manage their finances, particularly helping them achieve their savings goal. This app would feature personalized budget planning (determined upon amount and time), savings advisor, progress tracking, and weekly/monthly reports. 
 
 ## Notes
-While building this app I ran to errors such as the buttons performing the action of the other button and the build failing due to multiple Info.plist files
+While building this app I ran to errors such as the buttons performing the action of the other button and the build failing due to multiple Info.plist files.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
