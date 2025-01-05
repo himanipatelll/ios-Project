@@ -25,16 +25,31 @@ The following **required** functionality is completed:
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3598f3221fa94e89bb016fa3fdf248ac-43013ce8e8994142-full-play.gif">
     </a>
   </div>
-  
+ 
 
 
+## App Brainstorming
+1. Spotify
+  - Friend Activity
+  - Personalized playlists
+2. Duolingo
+  - Time Sensitive timer to extend streak in notification center
+  - Customized app logo depending on streak status
+3. Pinterest
+  - Tailored content on feed
+  - Collobartive boards
+4. Notion
+  - Customizble templates for notes, tasks, planners, etc
+  - Ability to integrate with other platforms such as Google Drive, calendars, etc
+5. rutgers.quest
+  - Instant notification given the opening of a course
+  - Redirects directly to registration page upon on click
+  - Ability to snipe numerous courses
 
-## App Brainstorming (Step 4)
+I would like to create an app that allows users to manage their finances, particularly helping them achieve their savings goal. This app would feature personalized budget planning (determined upon amount and time), savings advisor, progress tracking, and weekly/monthly reports. 
 
 ## Notes
-
-Describe any challenges encountered while building the app.
-
+While building this app I ran to errors such as the buttons performing the action of the other button and the build failing due to multiple Info.plist files
 ## License
 
     Copyright [yyyy] [name of copyright owner]
